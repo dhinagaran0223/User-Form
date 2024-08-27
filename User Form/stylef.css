@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+legend{
+    color: blue;
+}
+input{
+    /* text-align: center; */
+    width: 240px;
+    /* padding: 10px;
+    margin: 10px; */
+
+}
+.user{
+    /* background-color: coral; */
+    /* height: px; */
+    padding: 10px;
+    margin: 10px;
+
+}
+.user #field{
+    width: 61%;
+    margin: 0 auto;
+
+
+    /* padding: 20px; */
+
+}
+fieldset{
+    padding: 10px;
+
+}
+button{
+  background-color:green;
+  color: whitesmoke;
+  width:12%;
+  margin-left: 212px;
+}
+.content{
+    border: none;
+}
+form{
+    width: 30%;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
